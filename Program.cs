@@ -51,7 +51,7 @@ System.Console.WriteLine("Максимальное число " + max_number);*/
 // Напишите программу, которая на вход принимает число и выдает, 
 // является ли число четным (делится ли оно на два без остатка)
 
-Console.WriteLine("Введите число ");
+/*Console.WriteLine("Введите число ");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number % 2 == 0)
 {
@@ -60,4 +60,24 @@ if (number % 2 == 0)
 else
 {
     System.Console.WriteLine("Число нечетное");
+}*/
+
+// ЗАДАЧА 4
+// Напишите программу, котрая на вход принимает число (N), 
+// а на выходе показвает все четные числа от 1 до N
+
+Console.WriteLine("Введите число ");
+int number = Convert.ToInt32(Console.ReadLine());
+if (number <= 1)
+{
+    Console.WriteLine("Таких чисел нет");
+}
+else 
+{
+    int i=2;
+    while (i <= number)
+    {
+        Console.Write(i + ", ");
+        i += 2;
+    }
 }
