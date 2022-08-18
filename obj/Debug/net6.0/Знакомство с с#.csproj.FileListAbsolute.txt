@@ -1,0 +1,15 @@
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\bin\Debug\net6.0\Знакомство с с#.exe
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\bin\Debug\net6.0\Знакомство с с#.deps.json
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\bin\Debug\net6.0\Знакомство с с#.runtimeconfig.json
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\bin\Debug\net6.0\Знакомство с с#.dll
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\bin\Debug\net6.0\Знакомство с с#.pdb
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\Знакомство с с#.csproj.AssemblyReference.cache
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\Знакомство с с#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\Знакомство с с#.AssemblyInfoInputs.cache
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\Знакомство с с#.AssemblyInfo.cs
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\Знакомство с с#.csproj.CoreCompileInputs.cache
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\Знакомство с с#.dll
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\refint\Знакомство с с#.dll
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\Знакомство с с#.pdb
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\Знакомство с с#.genruntimeconfig.cache
+C:\Users\Евгения\Desktop\Учеба\Знакомство с с#\obj\Debug\net6.0\ref\Знакомство с с#.dll
